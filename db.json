@@ -4,7 +4,13 @@
       "id": "1777618651746",
       "name": "Mobile Legend",
       "poster": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/produk/1777618649521-185427.jpg",
-      "products": []
+      "products": [
+        {
+          "id": "1777618667316",
+          "name": "12 Diamond",
+          "price": 1500
+        }
+      ]
     }
   ]
 }
