@@ -22,6 +22,12 @@
           "icon": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/icon/1777621945009-194246.png",
           "name": "1x Weekly Elite Bundle",
           "price": 14730
+        },
+        {
+          "id": "1777622071620",
+          "icon": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/icon/1777622070083-194246.png",
+          "name": "2x 50 Diamonds (Total 100 Diamonds)",
+          "price": 15850
         }
       ]
     }
