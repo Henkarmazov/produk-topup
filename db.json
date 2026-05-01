@@ -16,7 +16,13 @@
       "id": "1777618901850",
       "name": "Arena Of Valor",
       "poster": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/produk/1777618899676-193946.jpg",
-      "products": []
+      "products": [
+        {
+          "id": "1777619047029",
+          "name": "123 diamond",
+          "price": 2000
+        }
+      ]
     }
   ]
 }
