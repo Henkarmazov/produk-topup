@@ -16,6 +16,12 @@
           "icon": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/icon/1777621871347-194246.png",
           "name": "1x Weekly Diamond Pass",
           "price": 28530
+        },
+        {
+          "id": "1777621946176",
+          "icon": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/icon/1777621945009-194246.png",
+          "name": "1x Weekly Elite Bundle",
+          "price": 14730
         }
       ]
     }
