@@ -24,5 +24,13 @@
         }
       ]
     }
+  ],
+  "Pulsa": [
+    {
+      "id": "1777619103462",
+      "name": "Pulsa ",
+      "poster": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/produk/1777619100537-193375.jpg",
+      "products": []
+    }
   ]
 }
