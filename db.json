@@ -64,6 +64,12 @@
           "icon": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/icon/1777631256340-194244.png",
           "name": "19 Diamonds",
           "price": 5220
+        },
+        {
+          "id": "1777635846082",
+          "icon": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/icon/1777635845023-194244.png",
+          "name": "28 Diamonds",
+          "price": 7590
         }
       ]
     }
