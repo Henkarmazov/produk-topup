@@ -11,6 +11,12 @@
     "game_name": "Hellloo",
     "category": "valo",
     "poster": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/produk/1777616012814-193946.jpg",
-    "products": []
+    "products": [
+      {
+        "id": "1777616045310",
+        "name": "826",
+        "price": 2000
+      }
+    ]
   }
 ]
