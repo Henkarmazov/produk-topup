@@ -46,6 +46,12 @@
           "icon": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/icon/1777629884660-194246.png",
           "name": "2x 500 Diamonds (Total 1000 Diamonds)",
           "price": 157610
+        },
+        {
+          "id": "1777630272301",
+          "icon": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/icon/1777630270661-194244.png",
+          "name": "5 Diamonds",
+          "price": 1480
         }
       ]
     }
