@@ -10,6 +10,12 @@
           "icon": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/icon/1777621752911-194246.png",
           "name": "1x Monthly Epic Bundle",
           "price": 72590
+        },
+        {
+          "id": "1777621872425",
+          "icon": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/icon/1777621871347-194246.png",
+          "name": "1x Weekly Diamond Pass",
+          "price": 28530
         }
       ]
     }
