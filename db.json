@@ -24,6 +24,12 @@
     "game_name": "Arena Of Valor",
     "category": "Moba",
     "poster": "https://raw.githubusercontent.com/Henkarmazov/produk-topup/main/assets/produk/1777616366101-185427.jpg",
-    "products": []
+    "products": [
+      {
+        "id": "1777616409256",
+        "name": "Hallo",
+        "price": 9605
+      }
+    ]
   }
 ]
